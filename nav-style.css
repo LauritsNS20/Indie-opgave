@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: cascade mono, Calibri, Montserrat, Verdana;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: #12739C;
+}
+
+.topnav a{
+float: left;
+color: #000000;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: #59B3DA;
+    color: #000000;
+}
+
