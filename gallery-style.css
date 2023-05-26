@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+
+.slideshow-conrainer{
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+.mySlides{
+    display: none;
+}
