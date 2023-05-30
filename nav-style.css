@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: cascade mono, Calibri, Montserrat, Verdana;
+    background: rgb(46,137,175);
 }
 
 .topnav{

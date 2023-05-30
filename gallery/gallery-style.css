@@ -1,0 +1,10 @@
+.image-silders {
+    display: flex;
+    overflow: hidden;
+    width: 80%;
+    aspect-ratio: 16/9;
+}
+.image-silders__image {
+    width: 100%;
+    
+}
