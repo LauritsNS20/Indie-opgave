@@ -1,0 +1,20 @@
+.cards {
+  width: 100%;  
+  padding: 8vh 0;
+  background: #2E89AF;
+  display: flex;
+  flex-wrap: wrap;
+    gap: 2rem; 
+    justify-content: center;
+}
+
+.button-for-cards {
+    font-size: larger;
+    background-color: #59B3DA;
+    border-style: none;
+    display: flex;
+  flex-wrap: wrap;
+    gap: 2rem; 
+    justify-content: center;
+    border-radius: 14%;
+}
