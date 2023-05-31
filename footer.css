@@ -1,4 +1,9 @@
 .footer-text {
 font-size: larger;
+overflow: hidden;
+background-color: #12739C;
+color: #000000;
+padding: 14px 16px;
+text-decoration: none;
 
 }
