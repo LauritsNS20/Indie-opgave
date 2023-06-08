@@ -11,7 +11,7 @@ BUTTONS_FOR_SLIDER.forEach((button, index) => button.addEventListener("click", (
 
 
 
-// here har vi hvors function 
+// here har vi hvors function  
 function goToNextSliders(buttonIndex){
     const SLIDERS_WIDTH = IMAGE_SLIDERS.getBoundingClientRect().width 
     console.log(SLIDERS_WIDTH)
