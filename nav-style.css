@@ -1,12 +1,12 @@
 body {
     margin: 0;
     font-family: cascade mono, Calibri, Montserrat, Verdana;
-    background: rgb(46,137,175);
+    background: rgb(29,141,179);
 }
 
 .topnav{
     overflow: hidden;
-    background-color: #12739C;
+    background-color: #57D5FF;
 }
 
 .topnav a{
@@ -20,7 +20,7 @@ font-size: xx-large;
 }
 
 .topnav a:hover{
-    background-color: #59B3DA;
+    background-color: #57D5FF;
     color: #000000;
 }
 
